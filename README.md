@@ -1,3 +1,1 @@
-hello i'm chandan# chandanshaw_portfolio
-# chandanshaw_portfolio
-# chandanshaw_portfolio
+Hello, I'm chandan and this is my portfolio.
